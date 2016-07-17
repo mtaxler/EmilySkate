@@ -1,0 +1,9 @@
+1. Fill out excel spreadsheet
+2. Save spreadsheet as "data.csv" making sure that the file type is "comma separated values" (csv)
+3. Open data.csv using notepad (windows) or textedit (mac)
+4. Copy all of the text
+5. Visit http://www.csvjson.com/csv2json and paste the text into the left box
+6. Hit convert and copy the text from the second box
+7. Open file data.js with notepad or textedit
+8. Delete everything after the "equals sign" and replace it with the text you just copied. Save.
+10. Code is now done and you need to sync the website with github
